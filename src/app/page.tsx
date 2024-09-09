@@ -1,7 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <div>Next.js + Biome + lefthook</div>
+      <h1>Next.js + Biome + lefthook</h1>
+      <h2>(commitlint + commmitizen)</h2>
     </main>
   );
 }
